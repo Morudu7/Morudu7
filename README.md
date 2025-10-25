@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thapelo Morudu
 - 👀 I’m interested in becoming a junior front-end developer
-- 🌱 I’m currently learning Front-end web development course through ALX
+- 🌱 I’m currently learning Front-end ProDev web development course through ALX
 - 📫 How to reach: moruduthapelo56@gmail.com
 
 <!---
